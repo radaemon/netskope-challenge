@@ -17,7 +17,10 @@ export default function Movie({ movies }) {
 
   async function fetchComments() {
     const apiComments = await axios.get(`${apiUrl}/comments/${location}`);
-    setComments(apiComments?.data);
+    if (apiComments.data.length > 0) {
+      setComments(apiComments.data);
+    }
+    return;
   }
 
   function handleUserInput(e) {
@@ -38,11 +41,16 @@ export default function Movie({ movies }) {
     resetUserInput();
   }
 
-  const htmlComments = comments?.map((comment) => (
-    <p>
-      {comment?.name}: {comment?.comment}
-    </p>
-  ));
+  const htmlComments =
+    comments.length > 0 ? (
+      comments.map((comment) => (
+        <p>
+          {comment?.name}: {comment?.comment}
+        </p>
+      ))
+    ) : (
+      <></>
+    );
 
   return (
     <>

@@ -1,0 +1,752 @@
+[
+  {
+    "film": "Zack and Miri Make a Porno",
+    "genre": "Romance",
+    "leadStudio": "The Weinstein Company",
+    "score": 70,
+    "profitability": 1.747541667,
+    "rtRanking": 64,
+    "grossing": "$41.94",
+    "year": 2008
+  },
+  {
+    "film": "Youth in Revolt",
+    "genre": "Comedy",
+    "leadStudio": "The Weinstein Company",
+    "score": 52,
+    "profitability": 1.09,
+    "rtRanking": 68,
+    "grossing": "$19.62",
+    "year": 2010
+  },
+  {
+    "film": "You Will Meet a Tall Dark Stranger",
+    "genre": "Comedy",
+    "leadStudio": "Independent",
+    "score": 35,
+    "profitability": 1.211818182,
+    "rtRanking": 43,
+    "grossing": "$26.66",
+    "year": 2010
+  },
+  {
+    "film": "When in Rome",
+    "genre": "Comedy",
+    "leadStudio": "Disney",
+    "score": 44,
+    "profitability": 0,
+    "rtRanking": 15,
+    "grossing": "$43.04",
+    "year": 2010
+  },
+  {
+    "film": "What Happens in Vegas",
+    "genre": "Comedy",
+    "leadStudio": "Fox",
+    "score": 72,
+    "profitability": 6.267647029,
+    "rtRanking": 28,
+    "grossing": "$219.37",
+    "year": 2008
+  },
+  {
+    "film": "Water For Elephants",
+    "genre": "Drama",
+    "leadStudio": "20th Century Fox",
+    "score": 72,
+    "profitability": 3.081421053,
+    "rtRanking": 60,
+    "grossing": "$117.09",
+    "year": 2011
+  },
+  {
+    "film": "WALL-E",
+    "genre": "Animation",
+    "leadStudio": "Disney",
+    "score": 89,
+    "profitability": 2.896019067,
+    "rtRanking": 96,
+    "grossing": "$521.28",
+    "year": 2008
+  },
+  {
+    "film": "Waitress",
+    "genre": "Romance",
+    "leadStudio": "Independent",
+    "score": 67,
+    "profitability": 11.0897415,
+    "rtRanking": 89,
+    "grossing": "$22.18",
+    "year": 2007
+  },
+  {
+    "film": "Waiting For Forever",
+    "genre": "Romance",
+    "leadStudio": "Independent",
+    "score": 53,
+    "profitability": 0.005,
+    "rtRanking": 6,
+    "grossing": "$0.03",
+    "year": 2011
+  },
+  {
+    "film": "Valentine's Day",
+    "genre": "Comedy",
+    "leadStudio": "Warner Bros.",
+    "score": 54,
+    "profitability": 4.184038462,
+    "rtRanking": 17,
+    "grossing": "$217.57",
+    "year": 2010
+  },
+  {
+    "film": "Tyler Perry's Why Did I get Married",
+    "genre": "Romance",
+    "leadStudio": "Independent",
+    "score": 47,
+    "profitability": 3.7241924,
+    "rtRanking": 46,
+    "grossing": "$55.86",
+    "year": 2007
+  },
+  {
+    "film": "Twilight: Breaking Dawn",
+    "genre": "Romance",
+    "leadStudio": "Independent",
+    "score": 68,
+    "profitability": 6.383363636,
+    "rtRanking": 26,
+    "grossing": "$702.17",
+    "year": 2011
+  },
+  {
+    "film": "Twilight",
+    "genre": "Romance",
+    "leadStudio": "Summit",
+    "score": 82,
+    "profitability": 10.18002703,
+    "rtRanking": 49,
+    "grossing": "$376.66",
+    "year": 2008
+  },
+  {
+    "film": "The Ugly Truth",
+    "genre": "Comedy",
+    "leadStudio": "Independent",
+    "score": 68,
+    "profitability": 5.402631579,
+    "rtRanking": 14,
+    "grossing": "$205.30",
+    "year": 2009
+  },
+  {
+    "film": "The Twilight Saga: New Moon",
+    "genre": "Drama",
+    "leadStudio": "Summit",
+    "score": 78,
+    "profitability": 14.1964,
+    "rtRanking": 27,
+    "grossing": "$709.82",
+    "year": 2009
+  },
+  {
+    "film": "The Time Traveler's Wife",
+    "genre": "Drama",
+    "leadStudio": "Paramount",
+    "score": 65,
+    "profitability": 2.598205128,
+    "rtRanking": 38,
+    "grossing": "$101.33",
+    "year": 2009
+  },
+  {
+    "film": "The Proposal",
+    "genre": "Comedy",
+    "leadStudio": "Disney",
+    "score": 74,
+    "profitability": 7.8675,
+    "rtRanking": 43,
+    "grossing": "$314.70",
+    "year": 2009
+  },
+  {
+    "film": "The Invention of Lying",
+    "genre": "Comedy",
+    "leadStudio": "Warner Bros.",
+    "score": 47,
+    "profitability": 1.751351351,
+    "rtRanking": 56,
+    "grossing": "$32.40",
+    "year": 2009
+  },
+  {
+    "film": "The Heartbreak Kid",
+    "genre": "Comedy",
+    "leadStudio": "Paramount",
+    "score": 41,
+    "profitability": 2.129444167,
+    "rtRanking": 30,
+    "grossing": "$127.77",
+    "year": 2007
+  },
+  {
+    "film": "The Duchess",
+    "genre": "Drama",
+    "leadStudio": "Paramount",
+    "score": 68,
+    "profitability": 3.207850222,
+    "rtRanking": 60,
+    "grossing": "$43.31",
+    "year": 2008
+  },
+  {
+    "film": "The Curious Case of Benjamin Button",
+    "genre": "Fantasy",
+    "leadStudio": "Warner Bros.",
+    "score": 81,
+    "profitability": 1.78394375,
+    "rtRanking": 73,
+    "grossing": "$285.43",
+    "year": 2008
+  },
+  {
+    "film": "The Back-up Plan",
+    "genre": "Comedy",
+    "leadStudio": "CBS",
+    "score": 47,
+    "profitability": 2.202571429,
+    "rtRanking": 20,
+    "grossing": "$77.09",
+    "year": 2010
+  },
+  {
+    "film": "Tangled",
+    "genre": "Animation",
+    "leadStudio": "Disney",
+    "score": 88,
+    "profitability": 1.365692308,
+    "rtRanking": 89,
+    "grossing": "$355.01",
+    "year": 2010
+  },
+  {
+    "film": "Something Borrowed",
+    "genre": "Romance",
+    "leadStudio": "Independent",
+    "score": 48,
+    "profitability": 1.719514286,
+    "rtRanking": 15,
+    "grossing": "$60.18",
+    "year": 2011
+  },
+  {
+    "film": "She's Out of My League",
+    "genre": "Comedy",
+    "leadStudio": "Paramount",
+    "score": 60,
+    "profitability": 2.4405,
+    "rtRanking": 57,
+    "grossing": "$48.81",
+    "year": 2010
+  },
+  {
+    "film": "Sex and the City Two",
+    "genre": "Comedy",
+    "leadStudio": "Warner Bros.",
+    "score": 49,
+    "profitability": 2.8835,
+    "rtRanking": 15,
+    "grossing": "$288.35",
+    "year": 2010
+  },
+  {
+    "film": "Sex and the City 2",
+    "genre": "Comedy",
+    "leadStudio": "Warner Bros.",
+    "score": 49,
+    "profitability": 2.8835,
+    "rtRanking": 15,
+    "grossing": "$288.35",
+    "year": 2010
+  },
+  {
+    "film": "Sex and the City",
+    "genre": "Comedy",
+    "leadStudio": "Warner Bros.",
+    "score": 81,
+    "profitability": 7.221795791,
+    "rtRanking": 49,
+    "grossing": "$415.25",
+    "year": 2008
+  },
+  {
+    "film": "Remember Me",
+    "genre": "Drama",
+    "leadStudio": "Summit",
+    "score": 70,
+    "profitability": 3.49125,
+    "rtRanking": 28,
+    "grossing": "$55.86",
+    "year": 2010
+  },
+  {
+    "film": "Rachel Getting Married",
+    "genre": "Drama",
+    "leadStudio": "Independent",
+    "score": 61,
+    "profitability": 1.384166667,
+    "rtRanking": 85,
+    "grossing": "$16.61",
+    "year": 2008
+  },
+  {
+    "film": "Penelope",
+    "genre": "Comedy",
+    "leadStudio": "Summit",
+    "score": 74,
+    "profitability": 1.382799733,
+    "rtRanking": 52,
+    "grossing": "$20.74",
+    "year": 2008
+  },
+  {
+    "film": "P.S. I Love You",
+    "genre": "Romance",
+    "leadStudio": "Independent",
+    "score": 82,
+    "profitability": 5.103116833,
+    "rtRanking": 21,
+    "grossing": "$153.09",
+    "year": 2007
+  },
+  {
+    "film": "Over Her Dead Body",
+    "genre": "Comedy",
+    "leadStudio": "New Line",
+    "score": 47,
+    "profitability": 2.071,
+    "rtRanking": 15,
+    "grossing": "$20.71",
+    "year": 2008
+  },
+  {
+    "film": "Our Family Wedding",
+    "genre": "Comedy",
+    "leadStudio": "Independent",
+    "score": 49,
+    "profitability": 0,
+    "rtRanking": 14,
+    "grossing": "$21.37",
+    "year": 2010
+  },
+  {
+    "film": "One Day",
+    "genre": "Romance",
+    "leadStudio": "Independent",
+    "score": 54,
+    "profitability": 3.682733333,
+    "rtRanking": 37,
+    "grossing": "$55.24",
+    "year": 2011
+  },
+  {
+    "film": "Not Easily Broken",
+    "genre": "Drama",
+    "leadStudio": "Independent",
+    "score": 66,
+    "profitability": 2.14,
+    "rtRanking": 34,
+    "grossing": "$10.70",
+    "year": 2009
+  },
+  {
+    "film": "No Reservations",
+    "genre": "Comedy",
+    "leadStudio": "Warner Bros.",
+    "score": 64,
+    "profitability": 3.307180357,
+    "rtRanking": 39,
+    "grossing": "$92.60",
+    "year": 2007
+  },
+  {
+    "film": "Nick and Norah's Infinite Playlist",
+    "genre": "Comedy",
+    "leadStudio": "Sony",
+    "score": 67,
+    "profitability": 3.3527293,
+    "rtRanking": 73,
+    "grossing": "$33.53",
+    "year": 2008
+  },
+  {
+    "film": "New year's Eve",
+    "genre": "Romance",
+    "leadStudio": "Warner Bros.",
+    "score": 48,
+    "profitability": 2.536428571,
+    "rtRanking": 8,
+    "grossing": "$142.04",
+    "year": 2011
+  },
+  {
+    "film": "My Week with Marilyn",
+    "genre": "Drama",
+    "leadStudio": "The Weinstein Company",
+    "score": 84,
+    "profitability": 0.8258,
+    "rtRanking": 83,
+    "grossing": "$8.26",
+    "year": 2011
+  },
+  {
+    "film": "Music and Lyrics",
+    "genre": "Romance",
+    "leadStudio": "Warner Bros.",
+    "score": 70,
+    "profitability": 3.64741055,
+    "rtRanking": 63,
+    "grossing": "$145.90",
+    "year": 2007
+  },
+  {
+    "film": "Monte Carlo",
+    "genre": "Romance",
+    "leadStudio": "20th Century Fox",
+    "score": 50,
+    "profitability": 1.9832,
+    "rtRanking": 38,
+    "grossing": "$39.66",
+    "year": 2011
+  },
+  {
+    "film": "Miss Pettigrew Lives for a Day",
+    "genre": "Comedy",
+    "leadStudio": "Independent",
+    "score": 70,
+    "profitability": 0.2528949,
+    "rtRanking": 78,
+    "grossing": "$15.17",
+    "year": 2008
+  },
+  {
+    "film": "Midnight in Paris",
+    "genre": "Romence",
+    "leadStudio": "Sony",
+    "score": 84,
+    "profitability": 8.744705882,
+    "rtRanking": 93,
+    "grossing": "$148.66",
+    "year": 2011
+  },
+  {
+    "film": "Marley and Me",
+    "genre": "Comedy",
+    "leadStudio": "Fox",
+    "score": 77,
+    "profitability": 3.746781818,
+    "rtRanking": 63,
+    "grossing": "$206.07",
+    "year": 2008
+  },
+  {
+    "film": "Mamma Mia!",
+    "genre": "Comedy",
+    "leadStudio": "Universal",
+    "score": 76,
+    "profitability": 9.234453864,
+    "rtRanking": 53,
+    "grossing": "$609.47",
+    "year": 2008
+  },
+  {
+    "film": "Made of Honor",
+    "genre": "Comdy",
+    "leadStudio": "Sony",
+    "score": 61,
+    "profitability": 2.64906835,
+    "rtRanking": 13,
+    "grossing": "$105.96",
+    "year": 2008
+  },
+  {
+    "film": "Love Happens",
+    "genre": "Drama",
+    "leadStudio": "Universal",
+    "score": 40,
+    "profitability": 2.004444444,
+    "rtRanking": 18,
+    "grossing": "$36.08",
+    "year": 2009
+  },
+  {
+    "film": "Love & Other Drugs",
+    "genre": "Comedy",
+    "leadStudio": "Fox",
+    "score": 55,
+    "profitability": 1.817666667,
+    "rtRanking": 48,
+    "grossing": "$54.53",
+    "year": 2010
+  },
+  {
+    "film": "Life as We Know It",
+    "genre": "Comedy",
+    "leadStudio": "Independent",
+    "score": 62,
+    "profitability": 2.530526316,
+    "rtRanking": 28,
+    "grossing": "$96.16",
+    "year": 2010
+  },
+  {
+    "film": "License to Wed",
+    "genre": "Comedy",
+    "leadStudio": "Warner Bros.",
+    "score": 55,
+    "profitability": 1.9802064,
+    "rtRanking": 8,
+    "grossing": "$69.31",
+    "year": 2007
+  },
+  {
+    "film": "Letters to Juliet",
+    "genre": "Comedy",
+    "leadStudio": "Summit",
+    "score": 62,
+    "profitability": 2.639333333,
+    "rtRanking": 40,
+    "grossing": "$79.18",
+    "year": 2010
+  },
+  {
+    "film": "Leap year",
+    "genre": "Comedy",
+    "leadStudio": "Universal",
+    "score": 49,
+    "profitability": 1.715263158,
+    "rtRanking": 21,
+    "grossing": "$32.59",
+    "year": 2010
+  },
+  {
+    "film": "Knocked Up",
+    "genre": "Comedy",
+    "leadStudio": "Universal",
+    "score": 83,
+    "profitability": 6.636401848,
+    "rtRanking": 91,
+    "grossing": "$219",
+    "year": 2007
+  },
+  {
+    "film": "Killers",
+    "genre": "Action",
+    "leadStudio": "Lionsgate",
+    "score": 45,
+    "profitability": 1.245333333,
+    "rtRanking": 11,
+    "grossing": "$93.40",
+    "year": 2010
+  },
+  {
+    "film": "Just Wright",
+    "genre": "Comedy",
+    "leadStudio": "Fox",
+    "score": 58,
+    "profitability": 1.797416667,
+    "rtRanking": 45,
+    "grossing": "$21.57",
+    "year": 2010
+  },
+  {
+    "film": "Jane Eyre",
+    "genre": "Romance",
+    "leadStudio": "Universal",
+    "score": 77,
+    "profitability": 0,
+    "rtRanking": 85,
+    "grossing": "$30.15",
+    "year": 2011
+  },
+  {
+    "film": "It's Complicated",
+    "genre": "Comedy",
+    "leadStudio": "Universal",
+    "score": 63,
+    "profitability": 2.642352941,
+    "rtRanking": 56,
+    "grossing": "$224.60",
+    "year": 2009
+  },
+  {
+    "film": "I Love You Phillip Morris",
+    "genre": "Comedy",
+    "leadStudio": "Independent",
+    "score": 57,
+    "profitability": 1.34,
+    "rtRanking": 71,
+    "grossing": "$20.10",
+    "year": 2010
+  },
+  {
+    "film": "High School Musical 3: Senior year",
+    "genre": "Comedy",
+    "leadStudio": "Disney",
+    "score": 76,
+    "profitability": 22.91313646,
+    "rtRanking": 65,
+    "grossing": "$252.04",
+    "year": 2008
+  },
+  {
+    "film": "He's Just Not That Into You",
+    "genre": "Comedy",
+    "leadStudio": "Warner Bros.",
+    "score": 60,
+    "profitability": 7.1536,
+    "rtRanking": 42,
+    "grossing": "$178.84",
+    "year": 2009
+  },
+  {
+    "film": "Good Luck Chuck",
+    "genre": "Comedy",
+    "leadStudio": "Lionsgate",
+    "score": 61,
+    "profitability": 2.36768512,
+    "rtRanking": 3,
+    "grossing": "$59.19",
+    "year": 2007
+  },
+  {
+    "film": "Going the Distance",
+    "genre": "Comedy",
+    "leadStudio": "Warner Bros.",
+    "score": 56,
+    "profitability": 1.3140625,
+    "rtRanking": 53,
+    "grossing": "$42.05",
+    "year": 2010
+  },
+  {
+    "film": "Gnomeo and Juliet",
+    "genre": "Animation",
+    "leadStudio": "Disney",
+    "score": 52,
+    "profitability": 5.387972222,
+    "rtRanking": 56,
+    "grossing": "$193.97",
+    "year": 2011
+  },
+  {
+    "film": "Ghosts of Girlfriends Past",
+    "genre": "Comedy",
+    "leadStudio": "Warner Bros.",
+    "score": 47,
+    "profitability": 2.0444,
+    "rtRanking": 27,
+    "grossing": "$102.22",
+    "year": 2009
+  },
+  {
+    "film": "Four Christmases",
+    "genre": "Comedy",
+    "leadStudio": "Warner Bros.",
+    "score": 52,
+    "profitability": 2.022925,
+    "rtRanking": 26,
+    "grossing": "$161.83",
+    "year": 2008
+  },
+  {
+    "film": "Fireproof",
+    "genre": "Drama",
+    "leadStudio": "Independent",
+    "score": 51,
+    "profitability": 66.934,
+    "rtRanking": 40,
+    "grossing": "$33.47",
+    "year": 2008
+  },
+  {
+    "film": "Enchanted",
+    "genre": "Comedy",
+    "leadStudio": "Disney",
+    "score": 80,
+    "profitability": 4.005737082,
+    "rtRanking": 93,
+    "grossing": "$340.49",
+    "year": 2007
+  },
+  {
+    "film": "Dear John",
+    "genre": "Drama",
+    "leadStudio": "Sony",
+    "score": 66,
+    "profitability": 4.5988,
+    "rtRanking": 29,
+    "grossing": "$114.97",
+    "year": 2010
+  },
+  {
+    "film": "Beginners",
+    "genre": "Comedy",
+    "leadStudio": "Independent",
+    "score": 80,
+    "profitability": 4.471875,
+    "rtRanking": 84,
+    "grossing": "$14.31",
+    "year": 2011
+  },
+  {
+    "film": "Across the Universe",
+    "genre": "romance",
+    "leadStudio": "Independent",
+    "score": 84,
+    "profitability": 0.652603178,
+    "rtRanking": 54,
+    "grossing": "$29.37",
+    "year": 2007
+  },
+  {
+    "film": "A Serious Man",
+    "genre": "Drama",
+    "leadStudio": "Universal",
+    "score": 64,
+    "profitability": 4.382857143,
+    "rtRanking": 89,
+    "grossing": "$30.68",
+    "year": 2009
+  },
+  {
+    "film": "A Dangerous Method",
+    "genre": "Drama",
+    "leadStudio": "Independent",
+    "score": 89,
+    "profitability": 0.44864475,
+    "rtRanking": 79,
+    "grossing": "$8.97",
+    "year": 2011
+  },
+  {
+    "film": "27 Dresses",
+    "genre": "Comedy",
+    "leadStudio": "Fox",
+    "score": 71,
+    "profitability": 5.3436218,
+    "rtRanking": 40,
+    "grossing": "$160.31",
+    "year": 2008
+  },
+  {
+    "film": "500 Days of Summer",
+    "genre": "comedy",
+    "leadStudio": "Fox",
+    "score": 81,
+    "profitability": 8.096,
+    "rtRanking": 87,
+    "grossing": "$60.72",
+    "year": 2009
+  }
+]
